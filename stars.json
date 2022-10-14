@@ -1,15 +1,27 @@
 [
   {
+    "full_name": "soetz/vite-docs-fr",
+    "stargazers_count": 3,
+    "open_issues_count": 96,
+    "forks_count": 2
+  },
+  {
+    "full_name": "vitejs/vite",
+    "stargazers_count": 48402,
+    "open_issues_count": 642,
+    "forks_count": 4093
+  },
+  {
     "full_name": "Jutanium/tutour",
-    "stargazers_count": 33,
+    "stargazers_count": 39,
     "open_issues_count": 0,
     "forks_count": 0
   },
   {
     "full_name": "remotion-dev/remotion",
-    "stargazers_count": 14121,
-    "open_issues_count": 66,
-    "forks_count": 608
+    "stargazers_count": 14134,
+    "open_issues_count": 65,
+    "forks_count": 609
   },
   {
     "full_name": "ottawajs/notes",
@@ -25,20 +37,20 @@
   },
   {
     "full_name": "mmccaff/PlacesToPostYourStartup",
-    "stargazers_count": 5053,
+    "stargazers_count": 5055,
     "open_issues_count": 5,
     "forks_count": 429
   },
   {
     "full_name": "amzn/style-dictionary",
-    "stargazers_count": 2794,
+    "stargazers_count": 2795,
     "open_issues_count": 154,
-    "forks_count": 420
+    "forks_count": 421
   },
   {
     "full_name": "design-tokens/community-group",
-    "stargazers_count": 960,
-    "open_issues_count": 51,
+    "stargazers_count": 962,
+    "open_issues_count": 52,
     "forks_count": 47
   },
   {
@@ -49,7 +61,7 @@
   },
   {
     "full_name": "git-learning-game/oh-my-git",
-    "stargazers_count": 1015,
+    "stargazers_count": 1016,
     "open_issues_count": 75,
     "forks_count": 79
   },
@@ -61,15 +73,15 @@
   },
   {
     "full_name": "chrispederick/web-developer",
-    "stargazers_count": 614,
+    "stargazers_count": 615,
     "open_issues_count": 1,
     "forks_count": 191
   },
   {
     "full_name": "freeCodeCamp/freeCodeCamp",
-    "stargazers_count": 355207,
-    "open_issues_count": 204,
-    "forks_count": 29965
+    "stargazers_count": 355321,
+    "open_issues_count": 207,
+    "forks_count": 30003
   },
   {
     "full_name": "zurb/F5-accessibility-audit",
