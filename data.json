@@ -1,14 +1,14 @@
 [
   {
     "full_name": "amzn/style-dictionary",
-    "stargazers_count": 2883,
+    "stargazers_count": 2885,
     "open_issues_count": 166,
-    "forks_count": 435
+    "forks_count": 436
   },
   {
     "full_name": "wet-boew/GCWeb",
     "stargazers_count": 78,
-    "open_issues_count": 172,
+    "open_issues_count": 173,
     "forks_count": 106
   },
   {
@@ -19,7 +19,7 @@
   },
   {
     "full_name": "remotion-dev/remotion",
-    "stargazers_count": 14362,
+    "stargazers_count": 14361,
     "open_issues_count": 58,
     "forks_count": 635
   },
@@ -39,6 +39,6 @@
     "full_name": "open-sauced/open-sauced",
     "stargazers_count": 812,
     "open_issues_count": 10,
-    "forks_count": 447
+    "forks_count": 448
   }
 ]
