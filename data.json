@@ -1,14 +1,14 @@
 [
   {
     "full_name": "amzn/style-dictionary",
-    "stargazers_count": 3242,
+    "stargazers_count": 3248,
     "open_issues_count": 194,
     "forks_count": 485
   },
   {
     "full_name": "wet-boew/GCWeb",
     "stargazers_count": 81,
-    "open_issues_count": 194,
+    "open_issues_count": 196,
     "forks_count": 120
   },
   {
@@ -19,9 +19,9 @@
   },
   {
     "full_name": "remotion-dev/remotion",
-    "stargazers_count": 16016,
+    "stargazers_count": 16036,
     "open_issues_count": 71,
-    "forks_count": 744
+    "forks_count": 746
   },
   {
     "full_name": "Jutanium/viteconf-tutour",
@@ -39,6 +39,6 @@
     "full_name": "open-sauced/open-sauced",
     "stargazers_count": 882,
     "open_issues_count": 0,
-    "forks_count": 646
+    "forks_count": 650
   }
 ]
