@@ -2,7 +2,7 @@
   {
     "full_name": "tokens-studio/graph-engine",
     "stargazers_count": 14,
-    "open_issues_count": 2,
+    "open_issues_count": 3,
     "forks_count": 1
   },
   {
@@ -13,9 +13,9 @@
   },
   {
     "full_name": "vitejs/vite",
-    "stargazers_count": 57379,
-    "open_issues_count": 532,
-    "forks_count": 5084
+    "stargazers_count": 57456,
+    "open_issues_count": 540,
+    "forks_count": 5095
   },
   {
     "full_name": "Jutanium/viteconf-tutour",
@@ -25,9 +25,9 @@
   },
   {
     "full_name": "remotion-dev/remotion",
-    "stargazers_count": 16122,
-    "open_issues_count": 80,
-    "forks_count": 752
+    "stargazers_count": 16158,
+    "open_issues_count": 76,
+    "forks_count": 756
   },
   {
     "full_name": "ottawajs/notes",
@@ -43,19 +43,19 @@
   },
   {
     "full_name": "mmccaff/PlacesToPostYourStartup",
-    "stargazers_count": 5346,
+    "stargazers_count": 5348,
     "open_issues_count": 6,
     "forks_count": 444
   },
   {
     "full_name": "amzn/style-dictionary",
-    "stargazers_count": 3272,
+    "stargazers_count": 3282,
     "open_issues_count": 197,
-    "forks_count": 486
+    "forks_count": 487
   },
   {
     "full_name": "design-tokens/community-group",
-    "stargazers_count": 1264,
+    "stargazers_count": 1272,
     "open_issues_count": 68,
     "forks_count": 58
   },
@@ -67,7 +67,7 @@
   },
   {
     "full_name": "git-learning-game/oh-my-git",
-    "stargazers_count": 1252,
+    "stargazers_count": 1255,
     "open_issues_count": 94,
     "forks_count": 101
   },
@@ -75,19 +75,19 @@
     "full_name": "thiagorossener/jekflix-template",
     "stargazers_count": 725,
     "open_issues_count": 36,
-    "forks_count": 970
+    "forks_count": 971
   },
   {
     "full_name": "chrispederick/web-developer",
-    "stargazers_count": 640,
+    "stargazers_count": 639,
     "open_issues_count": 1,
     "forks_count": 195
   },
   {
     "full_name": "freeCodeCamp/freeCodeCamp",
-    "stargazers_count": 369139,
-    "open_issues_count": 237,
-    "forks_count": 32698
+    "stargazers_count": 369281,
+    "open_issues_count": 230,
+    "forks_count": 32745
   },
   {
     "full_name": "zurb/F5-accessibility-audit",
