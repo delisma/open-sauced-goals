@@ -1,8 +1,8 @@
 [
   {
     "full_name": "tokens-studio/graph-engine",
-    "stargazers_count": 14,
-    "open_issues_count": 2,
+    "stargazers_count": 16,
+    "open_issues_count": 8,
     "forks_count": 1
   },
   {
@@ -13,21 +13,21 @@
   },
   {
     "full_name": "vitejs/vite",
-    "stargazers_count": 57563,
-    "open_issues_count": 537,
-    "forks_count": 5102
+    "stargazers_count": 57658,
+    "open_issues_count": 539,
+    "forks_count": 5121
   },
   {
     "full_name": "Jutanium/viteconf-tutour",
-    "stargazers_count": 78,
+    "stargazers_count": 79,
     "open_issues_count": 1,
     "forks_count": 5
   },
   {
     "full_name": "remotion-dev/remotion",
-    "stargazers_count": 16189,
-    "open_issues_count": 76,
-    "forks_count": 758
+    "stargazers_count": 16318,
+    "open_issues_count": 84,
+    "forks_count": 761
   },
   {
     "full_name": "ottawajs/notes",
@@ -37,25 +37,25 @@
   },
   {
     "full_name": "Brunty/awesome-checker-services",
-    "stargazers_count": 762,
+    "stargazers_count": 764,
     "open_issues_count": 2,
     "forks_count": 93
   },
   {
     "full_name": "mmccaff/PlacesToPostYourStartup",
-    "stargazers_count": 5350,
+    "stargazers_count": 5351,
     "open_issues_count": 6,
     "forks_count": 444
   },
   {
     "full_name": "amzn/style-dictionary",
-    "stargazers_count": 3280,
-    "open_issues_count": 198,
+    "stargazers_count": 3290,
+    "open_issues_count": 199,
     "forks_count": 485
   },
   {
     "full_name": "design-tokens/community-group",
-    "stargazers_count": 1273,
+    "stargazers_count": 1277,
     "open_issues_count": 68,
     "forks_count": 58
   },
@@ -67,27 +67,27 @@
   },
   {
     "full_name": "git-learning-game/oh-my-git",
-    "stargazers_count": 1258,
+    "stargazers_count": 1259,
     "open_issues_count": 94,
     "forks_count": 101
   },
   {
     "full_name": "thiagorossener/jekflix-template",
-    "stargazers_count": 728,
+    "stargazers_count": 730,
     "open_issues_count": 36,
-    "forks_count": 975
+    "forks_count": 976
   },
   {
     "full_name": "chrispederick/web-developer",
-    "stargazers_count": 639,
+    "stargazers_count": 640,
     "open_issues_count": 1,
-    "forks_count": 196
+    "forks_count": 199
   },
   {
     "full_name": "freeCodeCamp/freeCodeCamp",
-    "stargazers_count": 369443,
-    "open_issues_count": 228,
-    "forks_count": 32781
+    "stargazers_count": 369570,
+    "open_issues_count": 225,
+    "forks_count": 32813
   },
   {
     "full_name": "zurb/F5-accessibility-audit",
